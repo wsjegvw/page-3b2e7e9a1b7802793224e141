@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.90o12h.cn/sitemap.xml
